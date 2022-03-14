@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pluggo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://barryjburns.github.io
+  * I am pluggo (https://keybase.io/pluggo) on keybase.
+  * I have a public key ASDnTsQGucIj7qyCnXOQuJjccrMzCY7ndlrOyPW_bqXDMAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f1b4a59364d57fda60b8e8797d0103dfbc383032b7f5141270330fc41ad6e630a",
+      "host": "keybase.io",
+      "kid": "0120e74ec406b9c223eeac829d7390b898dc72b333098ee7765acec8f5bf6ea5c3300a",
+      "uid": "6e3187fdb781ca0a1fcce18611196f19",
+      "username": "pluggo"
+    },
+    "merkle_root": {
+      "ctime": 1647290019,
+      "hash": "0580f5fe7b9694cc0667cf1b04493b1bef4631393d493635e0a6fa013970f6cbd931332afdfd35268b9f09996d1bdff480f0a2897f65aa5b6140c360dcaf67b6",
+      "hash_meta": "169f9f8c29c27f128821fddc1b404a20a59fbdccbce3dd32bae066d0d1293e4c",
+      "seqno": 22080517
+    },
+    "service": {
+      "entropy": "njnybumEAxv7Jd5f/3Mj82Ky",
+      "hostname": "barryjburns.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1647290063,
+  "expire_in": 504576000,
+  "prev": "919b908c202c9c8fb2c0e868265d1ad8fd1af3c114500dc1ec4f4ba648b476eb",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg507EBrnCI+6sgp1zkLiY3HKzMwmO53Zazsj1v26lwzAKp3BheWxvYWTESpcCO8QgkZuQjCAsnI+ywOhoJl0a2P0a88EUUA3B7E9Lpki0duvEIKpLpzfo8dijDemv1E7MI93ENmgHIcHheJUdU4JUuaNpAgHCo3NpZ8RAFud7w4QeyAeBUOkLcxokENZ7jZIb6zsWT3VH643LGLCbXfqY6v7AIOY53g9SAhWAeL53DyHNeYKbI5tR3Q8zAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOdGXxCxmQzKQNrKwaN1sxr45kwlt4kct0sNbimp0karo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pluggo
+
+==================================================================
